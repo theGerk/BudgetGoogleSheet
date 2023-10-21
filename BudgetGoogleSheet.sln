@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "BudgetGoogleSheet", "BudgetGoogleSheet\BudgetGoogleSheet.njsproj", "{2C0F4E5A-E3C9-4ECC-AE22-E058DEC0E5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C0F4E5A-E3C9-4ECC-AE22-E058DEC0E5BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0F4E5A-E3C9-4ECC-AE22-E058DEC0E5BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0F4E5A-E3C9-4ECC-AE22-E058DEC0E5BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0F4E5A-E3C9-4ECC-AE22-E058DEC0E5BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA4194C3-482E-4D93-BBD2-DABCC40DC75E}
+	EndGlobalSection
+EndGlobal
